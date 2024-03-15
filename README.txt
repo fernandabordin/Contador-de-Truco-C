@@ -1,0 +1,1 @@
+Os arquivos de texto precisam estar na mesma pasta que o executavel para o jogo funcionar corretamente.
